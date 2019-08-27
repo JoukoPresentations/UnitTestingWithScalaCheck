@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TokenizeTest, org.scalacheck.ScalaCheckFramework$$anon$4@722073d5, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TokenizeTest-1, org.scalacheck.ScalaCheckFramework$$anon$4@722073d5, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TokenizeTest-0, org.scalacheck.ScalaCheckFramework$$anon$4@722073d5, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mScalaCheck[0m
+[0m[[0m[0minfo[0m] [0m[0mFailed: Total 2, Failed 2, Errors 0, Passed 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[31merror[0m] [0m[0mFailed: Total 2, Failed 2, Errors 0, Passed 0[0m
+[0m[[0m[31merror[0m] [0m[0mFailed tests:[0m
+[0m[[0m[31merror[0m] [0m[0m	TokenizeTest[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mtestOnly[0m) sbt.TestsFailedException: Tests unsuccessful[0m
